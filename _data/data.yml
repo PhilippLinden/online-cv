@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Philipp Linden
@@ -53,7 +53,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am currently a PhD candidate at the University of Siegen and a researcher at the Fulda University of Applied Science (Germany) in the research project Parenthealth: On the effects of parenthood on health behaviour. My research focuses on comparative welfare and health systems research, sociology and demography of health, disease and burden of disease. I rely mostly on quantitative research methods and data for my empirical analyses.
+      I am currently a PhD candidate at the University of Siegen and a researcher at the Fulda University of Applied Science (Germany) 
+      in the research project Parenthealth: On the effects of parenthood on health behaviour. My research focuses on comparative welfare 
+      and health systems research, sociology and demography of health, disease and burden of disease. I rely mostly on quantitative research 
+      methods and data for my empirical analyses.
 education:
     title: Education
     info:
