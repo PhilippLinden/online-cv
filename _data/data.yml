@@ -57,15 +57,14 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc Sociology & empirical research
+      - degree: MSc Sociology & emp. research
         university: University of Cologne
         time: 2015 - 2017
         details: |
       - degree: BA Social Sciences
         university: Justus-Liebig University Gießen
         time: 2012 - 2015
-        details: |
-        
+        details: |  
 carrer:
     title: Academic career
     info:
@@ -81,7 +80,6 @@ carrer:
         time: 2017 - 2022
         company: University of Siegen
         details: |
-
 projects:
     title: Projects
     intro: |
@@ -92,8 +90,7 @@ projects:
 
       - title: MEPYSO
         link: "https://mepyso.phil.uni-siegen.de/"
-        tagline: "The MEPYSO research project addresses the question of whether medical and psychological explanations for social problems such as poverty, unemployment and early childhood development have increased in recent years."
-
+        tagline: "The research project addresses the question of whether medical and psychological explanations for social problems such as poverty, unemployment and early childhood development have increased in recent years."
 publications:
     title: Publications
     intro: |
@@ -123,7 +120,6 @@ publications:
         link: "https://doi.org/10.1016/j.healthpol.2021.02.009"
         journal: Ariaans, M., Linden, P., Wendt, C. (2021)
         authors: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
