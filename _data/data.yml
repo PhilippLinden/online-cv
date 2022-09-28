@@ -71,20 +71,20 @@ carrer:
     info:
       - role: Researcher
         time: 2022 - Present
-        company: Fulda University of Applied Sciences, Project: Parenthealth
+        company: Fulda University of Applied Sciences in the project Parenthealth
         details:
       - role: Researcher
         time: 2021 - 2022
-        company: German Federal Center for Health Education (BZgA), Project: Parenthealth
+        company: German Federal Center for Health Education (BZgA) in the project Parenthealth
         details: |
-      - role: Research assistand and doctoral candidate
+      - role: Research assistant and doctoral candidate in the project MEPYSO
         time: 2017 - 2022
         company: University of Siegen
         details: |
 
 projects:
     title: Projects
-    intro: 
+    intro: |
     assignments:
       - title: Parenthealth
         link: "https://parenthealth.github.io/"
